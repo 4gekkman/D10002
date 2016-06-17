@@ -15,7 +15,7 @@
     "require": {
       "4gekkman/M1": "~1.0",
 			"4gekkman/M5": "~1.0",
-			"4gekkman/L10000": "~1.0"
+			"4gekkman/L10000": "~1.0",
 			"intervention/image": "~2.0"
     },
     "autoload": {
